@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "THREE, TWO, WAN!",
+  "base_artist": "KMNZ",
+  "createdAt": "2026-02-08T09:43:31.886616Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "THREE, TWO, WAN!",
+      "artist": "KMNZ",
+      "has_synced": false,
+      "path": "select/pl_01_THREE,_TWO,_WAN!_KMNZ.txt"
+    }
+  ]
+}
